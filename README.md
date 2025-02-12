@@ -9,5 +9,6 @@ QuickCart is an emerging online marketplace that connects buyers with a wide ran
 Tech Stack:
 
 frontend: NextJS, TailwindCSS, Axios
+
 Backend: NextResponse, NextRequest, iron-session, bcryptJS, mongoose, mongoDB
 
