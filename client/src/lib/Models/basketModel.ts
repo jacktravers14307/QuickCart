@@ -5,3 +5,5 @@ const basketItemSchema = new mongoose.Schema({
     quantity: { type: Number, required: true, default: 1 },
     addedAt: { type: Date, default: Date.now }
 });
+
+export default basketItemSchema
